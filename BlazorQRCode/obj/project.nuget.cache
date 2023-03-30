@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGI3uAkng/NCmHv82AShBUaaroVwgnLQcozBkzjdYrlZ4stOsgbF/79ZW7r4ySrBhFab032hZO18gljd40f75w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pushpendras\\Source\\Repos\\BlazorQRCode\\BlazorQRCode\\BlazorQRCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pushpendras\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\pushpendras\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\pushpendras\\.nuget\\packages\\qrcodernetcore\\1.0.0\\qrcodernetcore.1.0.0.nupkg.sha512",
+    "C:\\Users\\pushpendras\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
